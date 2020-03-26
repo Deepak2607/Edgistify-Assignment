@@ -1,4 +1,4 @@
- 1. A Platform where a User,  
+ 1. A Platform where a user,  
     - can register and log in.  
     - can create a post. Other users can view & like that post and can comment on that post also.
     - can't access the **posts** page without signing in.
