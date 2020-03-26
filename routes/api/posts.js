@@ -165,7 +165,7 @@ router.post('/comment/:id',isAuthenticated,(req,res)=> {
                 avatar:user.avatar        
             }
 
-            post.comments.unshift(comment);
+            post.comments.push(comment);
             post.save().then(post=> {
                 res.send(post.comments);
             }).catch(err=> {
