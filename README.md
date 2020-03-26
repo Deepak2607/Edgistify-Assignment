@@ -6,6 +6,7 @@
     comment.
  3. Author of the post/comment can delete his post/comment also (others
     can't).
+ 4. Technologies used- ReactJS, NodeJS, ExpressJS, React-router ,Redux, MongoDB.
 
 **How to use the files-**
 
